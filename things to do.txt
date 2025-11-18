@@ -1,0 +1,4 @@
+when to use which model 
+all models understading 
+each step of the ml lifecycle
+limitation and advantages of all model
